@@ -1,0 +1,54 @@
+[
+  {
+    "db_source": "1776446461382",
+    "timestamp": "2026-04-17",
+    "business_id": "walts-tree-service-wisconsin-dells-3",
+    "yelp_biz_id": "nEUkh8sjQdWaIYDNGS2S7w",
+    "name": "Walt's Tree Service",
+    "updates_from_business": null,
+    "overall_rating": 5,
+    "reviews_count": 1
+  },
+  {
+    "db_source": "1776446461382",
+    "timestamp": "2026-04-17",
+    "business_id": "hair-play-san-francisco-2",
+    "yelp_biz_id": "bXwn7D-N6EpudL9TBtl4Rg",
+    "name": "Hair Play",
+    "updates_from_business": [
+      "Updated 1 month ago"
+    ],
+    "overall_rating": 4.1,
+    "reviews_count": 785
+  },
+  {
+    "db_source": "1776446461382",
+    "timestamp": "2026-04-17",
+    "business_id": "realty-mart-plympton",
+    "yelp_biz_id": "vsHcAOZpODsrL227MY-WAw",
+    "name": "Realty Mart",
+    "updates_from_business": null,
+    "overall_rating": 0,
+    "reviews_count": 0
+  },
+  {
+    "db_source": "1776446461382",
+    "timestamp": "2026-04-17",
+    "business_id": "zees-construction-inc-altamonte-springs",
+    "yelp_biz_id": "oCYMPVHcU-vCF32DNG8jvw",
+    "name": "Zee's Construction Inc",
+    "updates_from_business": null,
+    "overall_rating": 3.8,
+    "reviews_count": 0
+  },
+  {
+    "db_source": "1776446461382",
+    "timestamp": "2026-04-17",
+    "business_id": "mares-trucking-parachute",
+    "yelp_biz_id": "u9ZP67gwLTqyml2Z1xkTXA",
+    "name": "Mares Trucking",
+    "updates_from_business": null,
+    "overall_rating": 5,
+    "reviews_count": 1
+  }
+]
